@@ -1,6 +1,6 @@
 # QuickShelf - Smart Desktop Organizer
 
-![QuickShelf Logo](icon.png) (optional)
+![QuickShelf Logo](icon.png)
 
 A Python-based Mac application that automatically organizes your cluttered desktop by intelligently categorizing files.
 
